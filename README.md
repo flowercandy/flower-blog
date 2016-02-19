@@ -2,6 +2,8 @@
 
 [微博：11唐一一](http://weibo.com/920802999 "11唐一一的微博")
 
-[前端开发面试题 Front-end-Developer-Questions](https://github.com/flowercandy/My-blog/tree/master/Front-end-Developer-Questions "最新前端开发面试题") 欢迎Star和提交issues
+[前端开发面试题 Front-end-Developer-Questions](https://github.com/flowercandy/My-blog/tree/master/Front-end-Developer-Questions "最新前端开发面试题") 欢迎Star和提交issues。
+
+![毕业设计作品摄影](/flowercandy/flower-blog/flower-blog/11 1.jpg)
 
 爱骑行，爱摄影，喜欢看书的女汉子。 
